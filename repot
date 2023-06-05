@@ -1,0 +1,4 @@
+leer: paquetes
+escribir: paquetes
+eliminar: paquetes
+$ export CR_PAT=YOUR_TOKEN
